@@ -7,111 +7,108 @@
 <h3 align="center">Full Stack Java Developer | Backend Engineer | Problem Solver</h3>
 
 <p align="center">
-📞 +91-7325803208 • 
-📧 <a href="mailto:chauhankhushi694@gmail.com">chauhankhushi694@gmail.com</a> • 
-🌐 <a href="https://www.linkedin.com/in/iamkhushichauhan/">LinkedIn</a> • 
-🐙 <a href="https://github.com/imkhushi01">GitHub</a>
+  <a href="mailto:chauhankhushi694@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chauhankhushi694%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamkhushichauhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Chauhan-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/imkhushi01">
+    <img src="https://img.shields.io/badge/GitHub-imkhushi01-black?style=flat&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me  
-I am a passionate **Full Stack Java Developer** with expertise in **Java, Spring Boot, JDBC, Hibernate, MySQL**, and modern **frontend technologies**.  
+I am a passionate **Full Stack Java Developer** specializing in **Spring Boot, Java, JDBC, Hibernate, MySQL**, and building modern **frontend interfaces**.  
 
 I focus on:  
-✔ Building scalable backend systems  
-✔ Designing RESTful APIs  
-✔ Creating responsive UI experiences  
-✔ Writing clean & maintainable code  
+✔ Scalable Backend Systems  
+✔ REST API Development  
+✔ Clean, Maintainable Code  
+✔ Responsive UI/UX  
+✔ Problem Solving (DSA)
 
-I enjoy solving complex **DSA problems**, learning new technologies, and building real-world applications.
-
-🌱 Currently learning: **Microservices, Spring Security, React**  
-💡 Looking for: **Internships / Full-Time Developer Roles**  
-
----
-
-## 🎓 Education  
-**📍 Kalam Institute of Technology, Odisha, India**  
-**B.Tech in Computer Science & Engineering (2021 – 2025)**  
+🌱 Currently learning: **Microservices & React**  
+💼 Seeking: **Full-time / Internship roles** in Full Stack & Backend Development  
 
 ---
 
-## 🧰 Tech Stack (Full Stack Java Developer)
+## 🧰 Tech Stack
 
-### ☕ Backend  
-- Java  
-- Spring Boot  
-- Spring MVC  
-- JDBC  
-- Hibernate / JPA  
-- REST APIs  
+### ☕ **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### 🎨 Frontend  
-- HTML5  
-- CSS3  
-- JavaScript  
-- Responsive UI Design  
+### 🎨 **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🗄 Databases  
-- MySQL  
-- PostgreSQL  
-- Oracle  
+### 🗄 **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### 🔧 Tools  
-- IntelliJ IDEA  
-- Eclipse  
-- Postman  
-- Git & GitHub  
-- Maven  
-
-### 🧠 Core CS Concepts  
-- Data Structures & Algorithms  
-- OOP  
-- DBMS  
-- Operating Systems  
-- Software Engineering Principles  
+### 🧰 **Tools**
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Projects  
+## 📘 Projects  
 
 ### 🔹 **Student Result Management System**  
-**Tech Stack:** Java, JDBC, MySQL  
-- CRUD-based application for managing student results  
-- JDBC integration with MySQL for secure data handling  
-- Modular design with exception handling  
+**Tech:** Java, JDBC, MySQL  
+- CRUD operations for managing student data  
+- JDBC-based secure database connection  
+- Modular architecture with proper exception handling  
 
 ---
 
 ### 🔹 **Library Management System**  
-**Tech Stack:** Java, JDBC, MySQL  
-- Admin-based system for book management  
-- Optimized SQL DB operations  
-- Clean, structured OOP-based design  
+**Tech:** Java, JDBC, MySQL  
+- Admin-based book management system  
+- SQL-optimized queries  
+- Clean, object-oriented design  
 
 ---
 
 ### 🔹 **Personal Portfolio Website**  
-**Tech Stack:** HTML, CSS, JavaScript  
+**Tech:** HTML, CSS, JavaScript  
 - Responsive multi-section portfolio  
-- Smooth animations & modern UI  
-- Flexbox & media queries for device compatibility  
+- Smooth animations & UI transitions  
+- Works across all screen sizes  
 
 ---
 
 ### 🔹 **Weather App**  
-**Tech Stack:** HTML, CSS, JavaScript  
-- Real-time weather updates using OpenWeather API  
-- Async JS to fetch live data  
-- Minimalist and user-friendly interface  
+**Tech:** HTML, CSS, JavaScript  
+- Uses OpenWeather API  
+- Real-time weather updates  
+- Minimalist UI with async JS  
 
 ---
 
 ## 🤝 Soft Skills  
-- Effective Communication  
+- Communication  
 - Team Collaboration  
-- Analytical Thinking  
+- Problem Solving  
 - Adaptability  
 - Time Management  
 
@@ -119,32 +116,30 @@ I enjoy solving complex **DSA problems**, learning new technologies, and buildin
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imkhushi01&show_icons=true&theme=tokyonight" />
-  <img width="48%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=imkhushi01&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imkhushi01&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=imkhushi01&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph  
+## 📈 Contribution Activity  
 <p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=imkhushi01&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imkhushi01&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 📦 Profile Metrics  
 <p align="center">
-  <img alt="Metrics" src="https://metrics.lecoq.io/imkhushi01?template=classic&config.timezone=Asia%2FCalcutta" />
+  <img src="https://metrics.lecoq.io/imkhushi01?template=classic&config.timezone=Asia%2FCalcutta" />
 </p>
 
 ---
 
 ## 🤗 Let's Connect  
-If you're looking for a motivated **Full Stack Java Developer**, feel free to reach out!
-
 📧 Email: **chauhankhushi694@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/iamkhushichauhan/**  
 
 ---
 
-⭐ *Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful.*  
+⭐ *Thanks for visiting my profile! If you find my work helpful, feel free to ⭐ my repositories.*
